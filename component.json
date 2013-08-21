@@ -1,0 +1,8 @@
+{
+  "name": "boot-scroll-to",
+  "description": "Initialize the scroll-to component",
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ]
+}
