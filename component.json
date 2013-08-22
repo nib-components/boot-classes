@@ -1,6 +1,6 @@
 {
-  "name": "boot-scroll-to",
-  "description": "Initialize the scroll-to component",
+  "name": "boot-classes",
+  "description": "Add feature classes to the page",
   "dependencies": {},
   "scripts": [
     "index.js"
