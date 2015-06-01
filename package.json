@@ -1,0 +1,10 @@
+{
+  "name": "@nib-components/boot-classes",
+  "version": "0.0.1",
+  "description": "Add feature classes to the page",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/boot-classes.git"
+  }
+}
